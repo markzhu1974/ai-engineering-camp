@@ -23,7 +23,7 @@ def main():
         print(f"{status}: {path.relative_to(ROOT)}")
 
     kicad_files = [
-        path for path in (ROOT / "kicad_project").glob("*.kicad_*")
+        path for path in (ROOT / "kicad_project").rglob("*.kicad_*")
         if path.name != ".gitkeep"
     ]
     gerber_files = [

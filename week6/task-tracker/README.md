@@ -16,7 +16,7 @@
 常用验证命令：
 
 ```powershell
-.\.venv\Scripts\Activate.ps1
+..\.venv\Scripts\Activate.ps1
 python -m pytest
 python -m task_tracker
 ```

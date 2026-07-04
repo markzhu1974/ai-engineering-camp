@@ -31,7 +31,7 @@ ai-engineering-summer-camp/
 ├── week5/   # KiCad 入门与强化学习 PCB 实践
 ├── week6/   # Opencode + DeepSeek AI Coding 实践
 ├── week7/   # 项目优化与成果展示
-└── 暑期AI工程实践训练营.md
+└── README.md
 ```
 
 ## 学习方式

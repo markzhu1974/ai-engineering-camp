@@ -33,7 +33,7 @@
 在 `task-tracker` 中运行：
 
 ```powershell
-.\.venv\Scripts\Activate.ps1
+..\.venv\Scripts\Activate.ps1
 python -m pytest
 python -m task_tracker
 ```

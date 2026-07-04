@@ -5,7 +5,7 @@
 示例：
 
 ```powershell
-Copy-Item -Recurse ../week6/task-tracker final_project/task-tracker
+Copy-Item -Recurse week6/task-tracker week7/final_project/task-tracker
 ```
 
-复制后，请按照 `../运行指南.md` 完成运行、重构、文档、展示和验收。
+复制后，请按照 `../2.运行指南.md` 完成运行、重构、文档、展示和验收。

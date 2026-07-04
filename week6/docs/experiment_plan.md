@@ -1,10 +1,10 @@
 # Week 6 实验脚本：Opencode + DeepSeek 完成 Task Tracker
 
-本脚本从空文件夹开始。每一步都需要你亲自输入命令、查看结果、记录发现。
+本脚本从一个干净的初始项目目录开始。每一步都需要你亲自输入命令、查看结果、记录发现。
 
 ## 实验 0：创建本地项目与快照机制
 
-目标：建立 `task-tracker` 项目文件夹和 `snapshots` 快照文件夹。
+目标：建立 `task-tracker` 项目文件夹和 `snapshots` 快照文件夹。`task-tracker` 可以是空文件夹，也可以只包含课程提供的占位 `README.md`。
 
 ### 步骤
 
@@ -39,7 +39,7 @@ opencode
 ### 验收
 
 - Opencode 没有修改文件。
-- 你知道当前 `task-tracker` 是空项目。
+- 你知道当前 `task-tracker` 还没有正式项目代码。
 - `week6` 下存在 `snapshots` 文件夹。
 
 ## 实验 1：只读分析与精准上下文
